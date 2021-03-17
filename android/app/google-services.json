@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "598665006380",
+    "project_id": "chatbox-dc924",
+    "storage_bucket": "chatbox-dc924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598665006380:android:2ad8b401efea485ed97089",
+        "android_client_info": {
+          "package_name": "com.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598665006380-vevbr31bemftkj857q2kmcnl2ndm2r9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatbox",
+            "certificate_hash": "89976a09723c5dd3ac28e3c67a34c2bd8c4d29eb"
+          }
+        },
+        {
+          "client_id": "598665006380-i9utpdjhsokus889ip8s3mnatadu57jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFrJg9KBh7LV4rCAcKMIEAHZiW84UzOK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598665006380-i9utpdjhsokus889ip8s3mnatadu57jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
